@@ -1,4 +1,4 @@
-# THW Theory
+# THW Theory (Technisches Hilfswerk Theorie Grundausbildung Anki)
 TL;DR: Parser for the current Technisches Hilfswerk theory questions (basic training) into Anki flashcards.
 
 As far as I know the up-to-date questions are currently (15.04.2024) provided in Ilias as `Aufgaben_Theorie_2022_3-4.pdf`.
