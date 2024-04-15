@@ -34,3 +34,4 @@ Example for a tab-separated input file generated from the spreadsheet:
 ## Disclaimer
 I do not upload my spreadsheet, .tsv or Anki files here as they would get outdated sooner or later. 
 If the format does not change significantly in future question sets, the tool could stay relevant.
+When the format changes feel free to contribute fixes. 
