@@ -25,17 +25,18 @@ Assumes Anki installed with the [multiple choice](https://ankiweb.net/shared/inf
 4. Enjoy learning efficiently
 
 ## Examples
-Spreadsheet format
+
+### Spreadsheet format
 ![image](https://github.com/Nesuma/thw_theory/assets/33174209/4f8884e8-04c4-40c2-b601-466de62123ef)
 
-A tab-separated input file generated from the spreadsheet:
+### A tab-separated input file generated from the spreadsheet:
 ```
 1.2	Wann wurde das THW gegründet?	1949	A	
 		1950	B	X
 		1956	C
 ```
 
-Anki flashcard
+### Anki flashcard
 ![image](https://github.com/Nesuma/thw_theory/assets/33174209/7af3eb68-0c49-4476-87f8-71fd9b458035)
 
 ## Disclaimer
