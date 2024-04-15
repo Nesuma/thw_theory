@@ -1,4 +1,4 @@
-# THW Theory
+# THW Theory (Technisches Hilfswerk Theorie Grundausbildung Anki)
 TL;DR: Parser for the current Technisches Hilfswerk theory questions (basic training) into Anki flashcards.
 
 As far as I know the up-to-date questions are currently (15.04.2024) provided in Ilias as `Aufgaben_Theorie_2022_3-4.pdf`.
@@ -24,12 +24,20 @@ Assumes Anki installed with the [multiple choice](https://ankiweb.net/shared/inf
 3. Import questions into Anki
 4. Enjoy learning efficiently
 
-Example for a tab-separated input file generated from the spreadsheet:
+## Examples
+
+### Spreadsheet format
+![image](https://github.com/Nesuma/thw_theory/assets/33174209/4f8884e8-04c4-40c2-b601-466de62123ef)
+
+### A tab-separated input file generated from the spreadsheet:
 ```
 1.2	Wann wurde das THW gegründet?	1949	A	
 		1950	B	X
 		1956	C
 ```
+
+### Anki flashcard
+![image](https://github.com/Nesuma/thw_theory/assets/33174209/7af3eb68-0c49-4476-87f8-71fd9b458035)
 
 ## Disclaimer
 I do not upload my spreadsheet, .tsv or Anki files here as they would get outdated sooner or later. 
